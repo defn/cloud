@@ -2,13 +2,6 @@
   "require": [
     "aws",
     "gcp",
-    "azure",
-    "digitalocean",
-    "softlayer",
-    "ctl",
-    "linode",
-    "packet",
-    "joyent",
-    "vca"
+    "azure"
   ]
 }
