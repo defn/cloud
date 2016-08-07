@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-function profile {
+function _cloud_profile {
   local shome="${_cloud_home:-"$(cd -P -- "$(dirname -- "$BASH_SOURCE")/.." && pwd -P)"}"
 }
 
-profile
+_cloud_profile
