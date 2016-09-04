@@ -2,6 +2,6 @@
   "require": [
     "aws",
     "azure",
-    "packet"
+    "gcp"
   ]
 }
