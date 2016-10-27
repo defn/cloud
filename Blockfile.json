@@ -1,7 +1,5 @@
 {
   "require": [
-    "aws",
-    "azure",
-    "gcp"
+    "aws"
   ]
 }
